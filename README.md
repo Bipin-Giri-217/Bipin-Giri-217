@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bipin Giri.
 - 👀 I’m interested in Learning , Development and Coding.
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Web Dev 
 - 💞️ I’m looking to collaborate on Application Development and Python projects.
 - 📫 How to reach me gbipin004@gmail.com OR bipingiri0085@gmail.com
 - Favorite Language: Python
